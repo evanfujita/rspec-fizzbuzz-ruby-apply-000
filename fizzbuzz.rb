@@ -8,7 +8,7 @@ def fizzbuzz(number)
     puts "Buzz"
   elsif
     number == 15
-    print "Fizz Buzz"
+    return "Fizz Buzz"
   else
     print "nil"
   end
