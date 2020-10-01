@@ -6,8 +6,11 @@ def fizzbuzz(number)
   elsif
     (number = 5)
     puts "Buzz"
-    
-  
+  elsif
+    (number = 15)
+    puts "Fizz Buzz"
+  else
+    puts "nil"
 end
 
 
