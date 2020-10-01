@@ -8,8 +8,9 @@ def fizzbuzz(number)
     return "Buzz"
   elsif
     number == 15
-    return "Fizz Buzz"
-  else
+    return "FizzBuzz"
+  elsif
+    number == 4
     return "nil"
   end
 end
