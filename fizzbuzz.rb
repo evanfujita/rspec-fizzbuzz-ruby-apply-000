@@ -15,5 +15,3 @@ def fizzbuzz(number)
   else
     puts "nil"
 end
-
-fizzbuzz(3)
