@@ -2,8 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(number)
   if(number = 3)
-    puts fizz
+    puts "Fizz"
   elsif
+    (number = 5)
+    puts "Buzz"
     
   
 end
