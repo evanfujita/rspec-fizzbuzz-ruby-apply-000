@@ -10,6 +10,6 @@ def fizzbuzz(number)
     number == 15
     puts "Fizz Buzz"
   else
-    puts "nil"
+    print "nil"
   end
 end
