@@ -2,14 +2,14 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(number)
   if number == 3
-    puts "Fizz"
+    return "Fizz"
   elsif
     number == 5
-    puts "Buzz"
+    return "Buzz"
   elsif
     number == 15
     return "Fizz Buzz"
   else
-    print "nil"
+    return "nil"
   end
 end
